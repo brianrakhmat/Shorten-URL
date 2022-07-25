@@ -1,3 +1,4 @@
+A
 <?php
 include("config.php");
 function acak($panjang)
